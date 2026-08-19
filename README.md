@@ -38,6 +38,7 @@ currently_learning: [ "Python", "Web Development" ]
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ### Tools & Platforms
@@ -49,9 +50,8 @@ currently_learning: [ "Python", "Web Development" ]
 
 ### Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 </div>
@@ -73,14 +73,6 @@ currently_learning: [ "Python", "Web Development" ]
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samuelordialeseya&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -91,16 +83,6 @@ currently_learning: [ "Python", "Web Development" ]
 
 <div align="center">
 
-
-
-<br/><br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=samuelordialeseya&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-
-
-
 
 </div>
