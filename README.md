@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HEADER GIF -->
-<img src="https://media.giphy.com/media/l0MYIAUMRKjsrtfWM/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/i9YfqLseqDTlXAWWsj/giphy.gif" width="600"/>
 
 <br/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Samuel!;CS+Student+%7C+Aspiring+Web+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Samuel!)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,14 +69,6 @@ currently_learning: [ "Python", "Web Development" ]
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samuelordialeseya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelordialeseya&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
