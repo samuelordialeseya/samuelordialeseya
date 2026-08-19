@@ -1,30 +1,19 @@
 <div align="center">
 
+# 👋 Hey there, I'm Samuel!
+
 <!-- HEADER GIF -->
 <img src="https://media.giphy.com/media/i9YfqLseqDTlXAWWsj/giphy.gif" width="350"/>
-
-<br/>
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Samuel!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Samuel P. Ordiales
-role: Computer Science Student (2nd Year)
-goal: Becoming a Web Developer 🌐
-currently_learning: [ "Python", "Web Development" ]
-```
-
-- 🎓 I'm a **2nd year Computer Science** student on a mission to build for the web
-- 🌱 Currently leveling up my **Python** and diving into **web technologies**
-- 🎯 My aspiration: become a **full-stack web developer**
-
+- 🎓 I'm a **2nd year Computer Science** student
+- 🎯 Aspiring **Web Developer** on a mission to build modern web applications
+- 🌱 Currently learning and improving in **Python** & **Java**
 
 ---
 
