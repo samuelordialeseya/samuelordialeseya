@@ -14,6 +14,7 @@
 - 🎓 I'm a **2nd year Computer Science** student
 - 🎯 Aspiring **Web Developer** on a mission to build modern web applications
 - 🌱 Currently learning and improving in **Python** & **Java**
+- 🚀 Building **Camy POS** & modular retail web applications
 
 ---
 
